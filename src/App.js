@@ -1,10 +1,7 @@
-import Register from "./pages/Register";
-import "./style.scss"
-import "./style.css"
+import Register from './pages/Register';
+
 function App() {
-  return(
-     <Register />
-  );
+  return <Register />;
 }
 
 export default App;
